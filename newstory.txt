@@ -1,0 +1,5 @@
+Characters:
+-ALICE: A brave young girl who embarks on a journey to find her lost brother
+-BOB: Alice's wise and humorous sidekick who provides comic relief
+-Cassandra: The villain, who seeks revenge against ALice
+
